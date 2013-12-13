@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "4ce56f8e-ace8-4e40-a6e5-219a3c598483",
+    "appKeys": {},
+    "longName": "Hello World",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Hello World",
+    "companyName": "jkdufair",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
